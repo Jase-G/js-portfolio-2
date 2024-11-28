@@ -1,0 +1,33 @@
+body {
+  width: 650px;
+  margin: 0px auto;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  background-color: white;
+  border: 5px solid white;
+  border-radius: 15px;
+  padding: 15px 30px;
+  margin-top: 50px;
+}
+
+html {
+  background-image: linear-gradient(to right, #b2d8d8, #004c4c);
+}
+
+div {
+  background-color: lightskyblue;
+  padding: 10px 30px;
+  border: 0px solid;
+  border-radius: 15px;
+  margin-bottom: 15px;
+}
+
+td {
+  border: 3px solid black;
+  text-align: center;
+  margin: 0px auto;
+}
+
+img {
+  width: 150px;
+}
